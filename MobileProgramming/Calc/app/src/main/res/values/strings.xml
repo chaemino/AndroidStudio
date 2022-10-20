@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calc</string>
+    <string name="add">더하기</string>
+    <string name="sub">빼기</string>
+    <string name="mult">곱하기</string>
+    <string name="divide">나누기</string>
+</resources>
